@@ -1,0 +1,35 @@
+C:\Users\usuario\Desktop\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.csprojAssemblyReference.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.deps.json
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.csprojAssemblyReference.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.AssemblyInfoInputs.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.AssemblyInfo.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ApiConversor\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ApiConversor\obj\Debug\netcoreapp2.1\ApiConversor.pdb

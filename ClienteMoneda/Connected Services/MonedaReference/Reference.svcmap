@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1207d014-ceba-4754-a3e0-d37f115f6800" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49660/MonedaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MonedaService.xsd" MetadataType="Schema" ID="23585643-238f-46ef-a0f7-2f341a690054" SourceId="1" SourceUrl="http://localhost:49660/MonedaService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MonedaService1.xsd" MetadataType="Schema" ID="9e9065d7-0235-405b-bf62-96ca2231bdca" SourceId="1" SourceUrl="http://localhost:49660/MonedaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MonedaService2.xsd" MetadataType="Schema" ID="14c7c899-e151-407c-ba4f-39e8ee8513fe" SourceId="1" SourceUrl="http://localhost:49660/MonedaService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MonedaService.disco" MetadataType="Disco" ID="7b9dafa8-75c9-4cba-b67e-00d497d021ef" SourceId="1" SourceUrl="http://localhost:49660/MonedaService.svc?disco" />
+    <MetadataFile FileName="MonedaService.wsdl" MetadataType="Wsdl" ID="129044fe-064d-49fe-b84f-5c2601da6cba" SourceId="1" SourceUrl="http://localhost:49660/MonedaService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

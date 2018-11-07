@@ -1,0 +1,273 @@
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.deps.json
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.json
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.input.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.output.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorCoreGenerate.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CopyComplete
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerMonedas.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetalleMoneda.g.cshtml.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.pdb
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.deps.json
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.json
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.dev.json
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.dll
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.dll
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.dll
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.dll
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.pdb
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+E:\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csprojAssemblyReference.cache
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CoreCompileInputs.cache
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cache
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfoInputs.cache
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfo.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.input.cache
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.output.cache
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorCoreGenerate.cache
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetalleMoneda.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerMonedas.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cache
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cs
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CopyComplete
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+E:\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerConversion.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.json
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.dll
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.input.cache
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.output.cache
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorCoreGenerate.cache
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetalleMoneda.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerMonedas.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerConversor.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.deps.json
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.json
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.dev.json
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ApiConversor.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csprojAssemblyReference.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfoInputs.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfo.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.input.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.output.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorCoreGenerate.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetalleMoneda.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerConversor.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerMonedas.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CopyComplete
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.input.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.output.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorCoreGenerate.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetalleMoneda.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerConversor.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerMonedas.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\Lockout.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.json
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.input.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.TagHelpers.output.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorCoreGenerate.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\Lockout.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetalleMoneda.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerConversor.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\VerMonedas.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.Views.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.pdb

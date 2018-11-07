@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Modelo" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Modelo" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfMoneda">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Moneda" nillable="true" type="tns:Moneda" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfMoneda" nillable="true" type="tns:ArrayOfMoneda" />
+  <xs:complexType name="Moneda">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="IdentificadorMoneda" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Moneda" nillable="true" type="tns:Moneda" />
+  <xs:complexType name="ArrayOfFactorConversion">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="FactorConversion" nillable="true" type="tns:FactorConversion" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfFactorConversion" nillable="true" type="tns:ArrayOfFactorConversion" />
+  <xs:complexType name="FactorConversion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Factor" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="IdMonedaDestino" type="xs:int" />
+      <xs:element minOccurs="0" name="IdMonedaOrigen" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FactorConversion" nillable="true" type="tns:FactorConversion" />
+  <xs:complexType name="ArrayOfPais">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Pais" nillable="true" type="tns:Pais" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPais" nillable="true" type="tns:ArrayOfPais" />
+  <xs:complexType name="Pais">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Pais" nillable="true" type="tns:Pais" />
+  <xs:complexType name="ArrayOfHistorial">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Historial" nillable="true" type="tns:Historial" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfHistorial" nillable="true" type="tns:ArrayOfHistorial" />
+  <xs:complexType name="Historial">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cantidad" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Factor" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Fecha" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="IdDestino" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdOrigen" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdUsuario" type="xs:int" />
+      <xs:element minOccurs="0" name="Resultado" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Historial" nillable="true" type="tns:Historial" />
+  <xs:complexType name="ArrayOfUsuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Usuario" nillable="true" type="tns:Usuario" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfUsuario" nillable="true" type="tns:ArrayOfUsuario" />
+  <xs:complexType name="Usuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaNacimiento" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="IdPais" type="xs:int" />
+      <xs:element minOccurs="0" name="NombreCompleto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombreUsuario" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Usuario" nillable="true" type="tns:Usuario" />
+</xs:schema>

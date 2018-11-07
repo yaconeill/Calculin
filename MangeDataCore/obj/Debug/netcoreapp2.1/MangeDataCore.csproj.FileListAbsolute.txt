@@ -1,0 +1,40 @@
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\MangeDataCore.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\MangeDataCore.runtimeconfig.json
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\MangeDataCore.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\MangeDataCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\MangeDataCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\MangeDataCore.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\MangeDataCore.runtimeconfig.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\MangeDataCore.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\MangeDataCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\MangeDataCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\MangeDataCore\obj\Debug\netcoreapp2.1\MangeDataCore.pdb

@@ -1,0 +1,108 @@
+2018-11-06 10:29:16.5717|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:61726/  0
+2018-11-06 10:29:16.5227|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/api/values  
+2018-11-06 10:29:16.7377|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:61726/  0
+2018-11-06 10:29:16.7377|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/api/values  
+2018-11-06 10:29:16.8077|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2018-11-06 10:29:16.8077|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2018-11-06 10:29:16.9718|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 396.697ms 200 
+2018-11-06 10:29:16.9718|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 396.697ms 200 
+2018-11-06 10:29:18.1878|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Values"}. Executing action ApiWeb.Controllers.ValuesController.Get (ApiWeb)
+2018-11-06 10:29:18.1878|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Values"}. Executing action ApiWeb.Controllers.ValuesController.Get (ApiWeb)
+2018-11-06 10:29:18.1878|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ApiWeb.Controllers.ValuesController.Get (ApiWeb) - Validation state: Valid
+2018-11-06 10:29:18.1878|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ApiWeb.Controllers.ValuesController.Get (ApiWeb) - Validation state: Valid
+2018-11-06 10:29:18.2098|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ApiWeb.Controllers.ValuesController.Get (ApiWeb), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.5771ms.
+2018-11-06 10:29:18.2098|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ApiWeb.Controllers.ValuesController.Get (ApiWeb), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.5771ms.
+2018-11-06 10:29:18.2388|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String[]'.
+2018-11-06 10:29:18.2388|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String[]'.
+2018-11-06 10:29:18.6529|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ApiWeb.Controllers.ValuesController.Get (ApiWeb) in 457.5321ms
+2018-11-06 10:29:18.6529|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ApiWeb.Controllers.ValuesController.Get (ApiWeb) in 457.5321ms
+2018-11-06 10:29:18.6599|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2161.7432ms 200 application/json; charset=utf-8
+2018-11-06 10:29:18.6599|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2161.7432ms 200 application/json; charset=utf-8
+2018-11-06 10:29:18.7589|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/robots.txt  
+2018-11-06 10:29:18.7589|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/robots.txt  
+2018-11-06 10:29:18.7819|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 13.1571ms 404 
+2018-11-06 10:29:18.7819|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 13.1571ms 404 
+2018-11-06 10:29:20.4170|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/favicon.ico  
+2018-11-06 10:29:20.4170|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/favicon.ico  
+2018-11-06 10:29:20.4260|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 8.0112ms 404 
+2018-11-06 10:29:20.4260|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 8.0112ms 404 
+2018-11-06 10:34:09.7915|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/api/monedas  
+2018-11-06 10:34:09.7915|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/api/monedas  
+2018-11-06 10:34:09.8115|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2018-11-06 10:34:09.8115|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2018-11-06 10:34:09.8355|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GetMoneda", controller = "Monedas"}. Executing action ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb)
+2018-11-06 10:34:09.8355|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GetMoneda", controller = "Monedas"}. Executing action ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb)
+2018-11-06 10:34:10.7116|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb) - Validation state: Valid
+2018-11-06 10:34:10.7116|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb) - Validation state: Valid
+2018-11-06 10:34:11.1866|WARN|Microsoft.EntityFrameworkCore.Model.Validation|No type was specified for the decimal column 'Factor' on entity type 'FactorConversion'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'ForHasColumnType()'.
+2018-11-06 10:34:11.1866|WARN|Microsoft.EntityFrameworkCore.Model.Validation|No type was specified for the decimal column 'Factor' on entity type 'FactorConversion'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'ForHasColumnType()'.
+2018-11-06 10:34:11.1896|WARN|Microsoft.EntityFrameworkCore.Model.Validation|No type was specified for the decimal column 'Cantidad' on entity type 'Historial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'ForHasColumnType()'.
+2018-11-06 10:34:11.1896|WARN|Microsoft.EntityFrameworkCore.Model.Validation|No type was specified for the decimal column 'Cantidad' on entity type 'Historial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'ForHasColumnType()'.
+2018-11-06 10:34:11.1896|WARN|Microsoft.EntityFrameworkCore.Model.Validation|No type was specified for the decimal column 'Factor' on entity type 'Historial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'ForHasColumnType()'.
+2018-11-06 10:34:11.1896|WARN|Microsoft.EntityFrameworkCore.Model.Validation|No type was specified for the decimal column 'Factor' on entity type 'Historial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'ForHasColumnType()'.
+2018-11-06 10:34:11.1896|WARN|Microsoft.EntityFrameworkCore.Model.Validation|No type was specified for the decimal column 'Resultado' on entity type 'Historial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'ForHasColumnType()'.
+2018-11-06 10:34:11.1896|WARN|Microsoft.EntityFrameworkCore.Model.Validation|No type was specified for the decimal column 'Resultado' on entity type 'Historial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'ForHasColumnType()'.
+2018-11-06 10:34:11.4066|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.1.4-rtm-31024 initialized 'MonedaDb' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2018-11-06 10:34:11.4086|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.1.4-rtm-31024 initialized 'MonedaDb' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2018-11-06 10:34:24.3823|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/api/monedas  
+2018-11-06 10:34:24.3823|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/api/monedas  
+2018-11-06 10:34:24.3923|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2018-11-06 10:34:24.3923|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2018-11-06 10:34:24.4323|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GetMoneda", controller = "Monedas"}. Executing action ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb)
+2018-11-06 10:34:24.4343|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GetMoneda", controller = "Monedas"}. Executing action ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb)
+2018-11-06 10:34:24.5153|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb) - Validation state: Valid
+2018-11-06 10:34:24.5513|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb) - Validation state: Valid
+2018-11-06 10:34:25.0274|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.1.4-rtm-31024 initialized 'MonedaDb' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2018-11-06 10:34:25.0274|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.1.4-rtm-31024 initialized 'MonedaDb' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2018-11-06 10:34:32.3918|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (568ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [m].[Id], [m].[IdentificadorMoneda], [m].[Nombre]
+FROM [Monedas] AS [m]
+2018-11-06 10:34:32.3918|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (568ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [m].[Id], [m].[IdentificadorMoneda], [m].[Nombre]
+FROM [Monedas] AS [m]
+2018-11-06 10:34:32.3918|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (568ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [m].[Id], [m].[IdentificadorMoneda], [m].[Nombre]
+FROM [Monedas] AS [m]
+2018-11-06 10:34:32.3918|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (568ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [m].[Id], [m].[IdentificadorMoneda], [m].[Nombre]
+FROM [Monedas] AS [m]
+2018-11-06 10:34:32.5888|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 8032.304ms.
+2018-11-06 10:34:32.5888|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 8032.304ms.
+2018-11-06 10:34:32.5888|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 21870.9898ms.
+2018-11-06 10:34:32.5888|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 21870.9898ms.
+2018-11-06 10:34:32.5938|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ModeloCore.Moneda, ModeloCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2018-11-06 10:34:32.5938|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ModeloCore.Moneda, ModeloCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2018-11-06 10:34:32.5938|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ModeloCore.Moneda, ModeloCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2018-11-06 10:34:32.5938|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ModeloCore.Moneda, ModeloCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2018-11-06 10:34:32.7138|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb) in 22869.4335ms
+2018-11-06 10:34:32.7138|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb) in 22869.4335ms
+2018-11-06 10:34:32.7168|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb) in 8235.5174ms
+2018-11-06 10:34:32.7168|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ApiWeb.Controllers.MonedasController.GetMoneda (ApiWeb) in 8235.5174ms
+2018-11-06 10:34:32.7328|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 8342.6277ms 200 application/json; charset=utf-8
+2018-11-06 10:34:32.7328|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 8342.6277ms 200 application/json; charset=utf-8
+2018-11-06 10:34:32.7328|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 22932.0773ms 200 application/json; charset=utf-8
+2018-11-06 10:34:32.7328|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 22932.0773ms 200 application/json; charset=utf-8
+2018-11-06 10:34:32.7788|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/api/factores  
+2018-11-06 10:34:32.7798|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:61726/api/factores  
+2018-11-06 10:34:32.7798|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2018-11-06 10:34:32.7798|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|Policy execution successful.
+2018-11-06 10:34:32.7998|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GetFactores", controller = "Factores"}. Executing action ApiWeb.Controllers.FactoresController.GetFactores (ApiWeb)
+2018-11-06 10:34:32.7998|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GetFactores", controller = "Factores"}. Executing action ApiWeb.Controllers.FactoresController.GetFactores (ApiWeb)
+2018-11-06 10:34:32.7998|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ApiWeb.Controllers.FactoresController.GetFactores (ApiWeb) - Validation state: Valid
+2018-11-06 10:34:32.7998|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ApiWeb.Controllers.FactoresController.GetFactores (ApiWeb) - Validation state: Valid
+2018-11-06 10:34:32.8108|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.1.4-rtm-31024 initialized 'MonedaDb' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2018-11-06 10:34:32.8108|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.1.4-rtm-31024 initialized 'MonedaDb' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2018-11-06 10:34:32.8828|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (60ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [f].[Id], [f].[Factor], [f].[IdMonedaDestino], [f].[IdMonedaOrigen]
+FROM [FactoresConversion] AS [f]
+2018-11-06 10:34:32.8828|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (60ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [f].[Id], [f].[Factor], [f].[IdMonedaDestino], [f].[IdMonedaOrigen]
+FROM [FactoresConversion] AS [f]
+2018-11-06 10:34:32.9018|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ApiWeb.Controllers.FactoresController.GetFactores (ApiWeb), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 92.426ms.
+2018-11-06 10:34:32.9018|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ApiWeb.Controllers.FactoresController.GetFactores (ApiWeb), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 92.426ms.
+2018-11-06 10:34:32.9068|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ModeloCore.FactorConversion, ModeloCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2018-11-06 10:34:32.9068|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ModeloCore.FactorConversion, ModeloCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2018-11-06 10:34:32.9608|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ApiWeb.Controllers.FactoresController.GetFactores (ApiWeb) in 145.7125ms
+2018-11-06 10:34:32.9608|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ApiWeb.Controllers.FactoresController.GetFactores (ApiWeb) in 145.7125ms
+2018-11-06 10:34:32.9668|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 195.3991ms 200 application/json; charset=utf-8
+2018-11-06 10:34:32.9668|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 195.3991ms 200 application/json; charset=utf-8

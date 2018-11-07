@@ -1,0 +1,104 @@
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\bin\Debug\netcoreapp2.1\Conversor.deps.json
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\bin\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\bin\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\obj\Debug\netcoreapp2.1\Conversor.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CopyComplete
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\obj\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\Conversor\obj\Debug\netcoreapp2.1\Conversor.pdb
+E:\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.deps.json
+E:\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.dll
+E:\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.pdb
+E:\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.dll
+E:\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.dll
+E:\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+E:\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+E:\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+E:\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+E:\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csprojAssemblyReference.cache
+E:\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CoreCompileInputs.cache
+E:\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfoInputs.cache
+E:\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfo.cs
+E:\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CopyComplete
+E:\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.dll
+E:\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.deps.json
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ApiConversor.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csprojAssemblyReference.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfoInputs.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfo.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CopyComplete
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.pdb

@@ -1,0 +1,109 @@
+﻿@model CambioMonedaWeb.ConversionViewModel
+
+@{ViewData["Title"] = "VerConversor";}
+
+<style>
+    form > .form-control, form > .form-group, #sort {
+        margin: 5px 0;
+    }
+</style>
+<div class="jumbotron">
+    <h3 class="text-center">Cambio de moneda</h3>
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <form asp-action="VerConversor" id="formUno" method="post">
+                <select asp-for="IdOrigen" class="form-control"
+                        asp-items="@(new SelectList(@Model.ListaMonedas, "IdentificadorMoneda", "Nombre"))" required>
+                    <option selected value="">Selecciona uno ...</option>
+                </select>
+                <select asp-for="IdDestino" class="form-control"
+                        asp-items="@(new SelectList(@Model.ListaMonedas, "IdentificadorMoneda", "Nombre"))" required>
+                    <option selected value="">Selecciona uno ...</option>
+                </select>
+                <div class="input-group">
+                    <span class="input-group-addon">Importe</span>
+                    <input type="text" class="form-control" asp-for="Cantidad" name="Cantidad" aria-label="Cantidad" required>
+                    <span class="input-group-addon">.00</span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="Convertir" />
+                    <button type="button" id="sort" class="btn btn-info btn-sm pull-right"><span class="glyphicon glyphicon-sort" aria-hidden="true"></span></button>
+
+                </div>
+            </form>
+        </div>
+    </div>
+    @if (Model.Resultado != 0)
+    {
+        <hr />
+        <h4 class="text-center">Resultado de la conversión</h4>
+
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-3 animated fadeIn">
+                <div class="thumbnail">
+                    <div class="caption text-center">
+                        @{
+                            if (Model.Resultado == -1)
+                            {
+                                <div class="alert alert-danger" role="alert">
+                                    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+                                    <span class="sr-only">Error:</span>
+                                    @Model.ErrorMsg
+                                </div>
+                            }
+                            else
+                            {
+                                <h3><span class="currency-flag currency-flag-@Model.IdOrigen.ToLower()"></span> Origen | <span class="currency-flag currency-flag-@Model.IdDestino.ToLower()"></span> Destino </h3>
+                                <h3>
+                                    Importe: @Model.Cantidad <small>@Model.IdOrigen</small>
+                                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                                    @Model.Resultado <small>@Model.IdDestino</small>
+                                </h3>
+                            }
+                        }
+                        @*<a href="#" class="btn btn-danger" onClick="history.back();">Volver</a>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    }
+
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(() => {
+            $('#formUno #IdOrigen').change((self) => hideSelected(self, $('#formUno #IdDestino').children()));
+
+            $('#formLista #IdOrigen').change((self) => hideSelected(self, $('#formLista #monedaDestino').find('input')));
+
+            function hideSelected(self, selector) {
+                const selected = self.target.selectedOptions[0].value;
+                selector.each((i, o) => {
+                    o.type === "checkbox" ? $(o).parent().parent().show() : $(o).show();
+                });
+                selector.each(function (i, o) {
+                    if (o.value === selected && o.value !== "Selecciona uno ...")
+                        o.type === "checkbox" ? $(o).parent().parent().hide() : $(o).hide();
+                });
+            }
+
+            $('#formUno #Cantidad').focusout(function () {
+                let value = $(this).val();
+                $(this).val(value.replace(/\./, ','));
+            });
+
+            let sort = document.getElementById('sort');
+            sort.addEventListener('click', () => {
+                let origen = document.getElementById('IdOrigen');
+                let destino = document.getElementById('IdDestino');
+                let prevOrigen = origen.selectedIndex;
+                let prevDestino = destino.selectedIndex;
+                origen.selectedIndex = prevDestino;
+                destino.selectedIndex = prevOrigen;
+            });
+
+        });
+    </script>
+}

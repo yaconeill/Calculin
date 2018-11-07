@@ -1,0 +1,52 @@
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.pdb
+E:\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
+E:\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+E:\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+E:\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+E:\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+E:\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+E:\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.dll
+E:\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.pdb
+E:\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csprojAssemblyReference.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csprojAssemblyReference.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.pdb

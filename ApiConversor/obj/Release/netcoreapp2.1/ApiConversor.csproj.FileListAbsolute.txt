@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\bin\Release\netcoreapp2.1\ApiConversor.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\bin\Release\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\bin\Release\netcoreapp2.1\ApiConversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Release\netcoreapp2.1\ApiConversor.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Release\netcoreapp2.1\ApiConversor.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Release\netcoreapp2.1\ApiConversor.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Release\netcoreapp2.1\ApiConversor.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Release\netcoreapp2.1\ApiConversor.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ApiConversor\obj\Release\netcoreapp2.1\ApiConversor.pdb

@@ -1,0 +1,84 @@
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.deps.json
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CopyComplete
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\ArquitecturaPropuesta\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.pdb
+E:\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.deps.json
+E:\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+E:\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+E:\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+E:\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+E:\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+E:\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+E:\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csprojAssemblyReference.cache
+E:\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CoreCompileInputs.cache
+E:\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfoInputs.cache
+E:\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfo.cs
+E:\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CopyComplete
+E:\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.dll
+E:\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.deps.json
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csprojAssemblyReference.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfoInputs.cache
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfo.cs
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CopyComplete
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.dll
+D:\Proyectos\Proyecto calculin\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\RepositorioCore\obj\Debug\netcoreapp2.1\RepositorioCore.pdb

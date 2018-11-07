@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="MonedaService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:49660/MonedaService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:49660/MonedaService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:49660/MonedaService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Modelo" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IMonedaService_GetMonedas_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMonedas" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetMonedas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMonedasResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetMoneda_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMoneda" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetMoneda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMonedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_CreateMoneda_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateMoneda" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_CreateMoneda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateMonedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_UpdateMoneda_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateMoneda" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_UpdateMoneda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateMonedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_DeleteMoneda_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteMoneda" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_DeleteMoneda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteMonedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetConversiones_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConversiones" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetConversiones_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConversionesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetConversion_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConversion" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetConversion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConversionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_CreateFactor_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateFactor" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_CreateFactor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateFactorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_UpdateFactor_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateFactor" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_UpdateFactor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateFactorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_DeleteFactor_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteFactor" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_DeleteFactor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteFactorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetPaises_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPaises" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetPaises_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPaisesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetPais_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPais" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetPais_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPaisResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_CreatePais_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreatePais" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_CreatePais_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreatePaisResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_UpdatePais_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePais" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_UpdatePais_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePaisResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_DeletePais_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeletePais" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_DeletePais_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeletePaisResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetHistoriales_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetHistoriales" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetHistoriales_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetHistorialesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetHistorial_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetHistorial" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetHistorial_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetHistorialResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_CreateHistorial_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateHistorial" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_CreateHistorial_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateHistorialResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_UpdateHistorial_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateHistorial" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_UpdateHistorial_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateHistorialResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_DeleteHistorial_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteHistorial" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_DeleteHistorial_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteHistorialResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetUsuarios_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUsuarios" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetUsuarios_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUsuariosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetUsuarioByEmail_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUsuarioByEmail" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetUsuarioByEmail_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUsuarioByEmailResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_GetUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_CreateUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_CreateUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_UpdateUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_UpdateUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_DeleteUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IMonedaService_DeleteUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IMonedaService">
+    <wsdl:operation name="GetMonedas">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetMonedas" message="tns:IMonedaService_GetMonedas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetMonedasResponse" message="tns:IMonedaService_GetMonedas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMoneda">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetMoneda" message="tns:IMonedaService_GetMoneda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetMonedaResponse" message="tns:IMonedaService_GetMoneda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateMoneda">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/CreateMoneda" message="tns:IMonedaService_CreateMoneda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/CreateMonedaResponse" message="tns:IMonedaService_CreateMoneda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateMoneda">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/UpdateMoneda" message="tns:IMonedaService_UpdateMoneda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/UpdateMonedaResponse" message="tns:IMonedaService_UpdateMoneda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteMoneda">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/DeleteMoneda" message="tns:IMonedaService_DeleteMoneda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/DeleteMonedaResponse" message="tns:IMonedaService_DeleteMoneda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConversiones">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetConversiones" message="tns:IMonedaService_GetConversiones_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetConversionesResponse" message="tns:IMonedaService_GetConversiones_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConversion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetConversion" message="tns:IMonedaService_GetConversion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetConversionResponse" message="tns:IMonedaService_GetConversion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateFactor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/CreateFactor" message="tns:IMonedaService_CreateFactor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/CreateFactorResponse" message="tns:IMonedaService_CreateFactor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateFactor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/UpdateFactor" message="tns:IMonedaService_UpdateFactor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/UpdateFactorResponse" message="tns:IMonedaService_UpdateFactor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteFactor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/DeleteFactor" message="tns:IMonedaService_DeleteFactor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/DeleteFactorResponse" message="tns:IMonedaService_DeleteFactor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPaises">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetPaises" message="tns:IMonedaService_GetPaises_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetPaisesResponse" message="tns:IMonedaService_GetPaises_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPais">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetPais" message="tns:IMonedaService_GetPais_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetPaisResponse" message="tns:IMonedaService_GetPais_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreatePais">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/CreatePais" message="tns:IMonedaService_CreatePais_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/CreatePaisResponse" message="tns:IMonedaService_CreatePais_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePais">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/UpdatePais" message="tns:IMonedaService_UpdatePais_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/UpdatePaisResponse" message="tns:IMonedaService_UpdatePais_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeletePais">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/DeletePais" message="tns:IMonedaService_DeletePais_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/DeletePaisResponse" message="tns:IMonedaService_DeletePais_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetHistoriales">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetHistoriales" message="tns:IMonedaService_GetHistoriales_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetHistorialesResponse" message="tns:IMonedaService_GetHistoriales_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetHistorial">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetHistorial" message="tns:IMonedaService_GetHistorial_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetHistorialResponse" message="tns:IMonedaService_GetHistorial_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateHistorial">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/CreateHistorial" message="tns:IMonedaService_CreateHistorial_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/CreateHistorialResponse" message="tns:IMonedaService_CreateHistorial_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateHistorial">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/UpdateHistorial" message="tns:IMonedaService_UpdateHistorial_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/UpdateHistorialResponse" message="tns:IMonedaService_UpdateHistorial_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteHistorial">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/DeleteHistorial" message="tns:IMonedaService_DeleteHistorial_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/DeleteHistorialResponse" message="tns:IMonedaService_DeleteHistorial_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUsuarios">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetUsuarios" message="tns:IMonedaService_GetUsuarios_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetUsuariosResponse" message="tns:IMonedaService_GetUsuarios_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUsuarioByEmail">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetUsuarioByEmail" message="tns:IMonedaService_GetUsuarioByEmail_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetUsuarioByEmailResponse" message="tns:IMonedaService_GetUsuarioByEmail_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/GetUsuario" message="tns:IMonedaService_GetUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/GetUsuarioResponse" message="tns:IMonedaService_GetUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/CreateUsuario" message="tns:IMonedaService_CreateUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/CreateUsuarioResponse" message="tns:IMonedaService_CreateUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/UpdateUsuario" message="tns:IMonedaService_UpdateUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/UpdateUsuarioResponse" message="tns:IMonedaService_UpdateUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMonedaService/DeleteUsuario" message="tns:IMonedaService_DeleteUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMonedaService/DeleteUsuarioResponse" message="tns:IMonedaService_DeleteUsuario_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IMonedaService" type="tns:IMonedaService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetMonedas">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetMonedas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMoneda">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetMoneda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateMoneda">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/CreateMoneda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateMoneda">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/UpdateMoneda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteMoneda">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/DeleteMoneda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConversiones">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetConversiones" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConversion">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetConversion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateFactor">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/CreateFactor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateFactor">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/UpdateFactor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteFactor">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/DeleteFactor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPaises">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetPaises" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPais">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetPais" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreatePais">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/CreatePais" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePais">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/UpdatePais" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeletePais">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/DeletePais" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetHistoriales">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetHistoriales" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetHistorial">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetHistorial" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateHistorial">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/CreateHistorial" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateHistorial">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/UpdateHistorial" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteHistorial">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/DeleteHistorial" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUsuarios">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetUsuarios" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUsuarioByEmail">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetUsuarioByEmail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUsuario">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/GetUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateUsuario">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/CreateUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateUsuario">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/UpdateUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteUsuario">
+      <soap:operation soapAction="http://tempuri.org/IMonedaService/DeleteUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MonedaService">
+    <wsdl:port name="BasicHttpBinding_IMonedaService" binding="tns:BasicHttpBinding_IMonedaService">
+      <soap:address location="http://localhost:49660/MonedaService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
