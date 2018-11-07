@@ -12,14 +12,16 @@
     <title>@ViewData["Title"] | Calculín</title>
 
     <environment include="Development">
-        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="https://bootswatch.com/3/superhero/bootstrap.css" />
+        @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />*@
         <link rel="stylesheet" href="~/css/site.css" />
         <link rel="stylesheet" href="~/css/currency-flags.css" />
     </environment>
     <environment exclude="Development">
-        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
-              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
-              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="https://bootswatch.com/3/superhero/bootstrap.min.css" />
+        @*<link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+        asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+        asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />*@
         <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
         <link rel="stylesheet" href="~/css/currency-flags.css" asp-append-version="true" />
     </environment>
@@ -39,14 +41,18 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a asp-active-route asp-area="" asp-controller="Home" asp-action="Index" asp-hide-if-active="true">Home</a></li>
-                    <li><a asp-active-route asp-area="" asp-controller="Home" asp-action="About" asp-hide-if-active="true">About</a></li>
-                    <li><a asp-active-route asp-area="" asp-controller="Home" asp-action="Contact" asp-hide-if-active="true">Contact</a></li>
-
                     @if (SignInManager.IsSignedIn(User))
                     {
                         <li><a asp-active-route asp-area="" asp-controller="Home" asp-action="VerMonedas" asp-hide-if-active="true">Monedas</a></li>
                         <li><a asp-active-route asp-area="" asp-controller="Home" asp-action="VerConversor" asp-hide-if-active="true">Conversor</a></li>
-                        <li><a>@UserManager.GetUserName(User)</a></li>
+                    }
+                    <li><a asp-active-route asp-area="" asp-controller="Home" asp-action="About" asp-hide-if-active="true">About</a></li>
+                    <li><a asp-active-route asp-area="" asp-controller="Home" asp-action="Contact" asp-hide-if-active="true">Contact</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        <li><a>@UserManager.GetUserName(User)<span class="glyphicon glyphicon-user" id="user"></span></a></li>
                         <li><a asp-active-route asp-area="" asp-controller="Account" asp-action="Logoff">Log off</a></li>
                     }
                     else

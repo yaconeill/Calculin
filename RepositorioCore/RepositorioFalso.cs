@@ -109,7 +109,7 @@ namespace RepositorioCore
 		/// <param name="desde"></param>
 		/// <param name="hasta"></param>
 		/// <returns></returns>
-		public List<Historial> BuscarNHistoriales(int desde, int hasta) => ListaHistoriales;
+		public List<Historial> BuscarNHistoriales(int desde, int hasta, string idUsuario) => ListaHistoriales;
 
 		/// <summary>
 		/// RETRIEVE RECORDS BY ID

@@ -7,16 +7,16 @@
         @foreach (var moneda in Model.ListaMonedas)
         {
             <div class="col-sm-4 col-lg-4 col-md-4 animated fadeIn">
-                <div class="thumbnail">
+                <a asp-controller="Home" asp-action="DetalleMoneda" asp-route-id="@moneda.Id"><div class="thumbnail">
                     <img src="@Model.ImagenMoneda" alt="">
                     <div class="caption">
-                        <h3 class="pull-right"><span class="label label-info">@moneda.IdentificadorMoneda</span></h3>
-                        <h3>
-                            <a asp-controller="Home" asp-action="DetalleMoneda" asp-route-id="@moneda.Id">@moneda.IdentificadorMoneda</a>
-                        </h3>
-                        @*<p>@moneda.Nombre</p>*@
+                        <h4 class="pull-right"><span class="label label-info">@moneda.IdentificadorMoneda</span></h4>
+                        @*<h4>
+                            <a asp-controller="Home" asp-action="DetalleMoneda" asp-route-id="@moneda.Id">@moneda.Nombre</a>
+                        </h4>*@
+                        <p>@moneda.Nombre</p>
                     </div>
-                </div>
+                </div></a>
             </div>
 
         }

@@ -8,7 +8,7 @@ using RepositorioCore;
 
 namespace CambioMonedaWeb.Controllers
 {
-    [Route("api/monedas")]
+    [Route("api/historiales")]
     [ApiController]
     public class ApiController : ControllerBase
     {
@@ -20,10 +20,14 @@ namespace CambioMonedaWeb.Controllers
 
 		}
 
-		[HttpGet()]
-	    public IActionResult GetMonedas()
+		[HttpGet("{id}")]
+	    public IActionResult GetHistorial(int id)
 		{
-			return Ok(_repositorio.ObtenerMonedas());
+		    var buscarHistorial = _repositorio.BuscarHistorialPorId(id);
+            if(buscarHistorial == null)
+                return NotFound();
+
+            return Ok(buscarHistorial);
 		}
     }
 }

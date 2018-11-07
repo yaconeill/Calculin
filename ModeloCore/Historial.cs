@@ -11,7 +11,7 @@ namespace ModeloCore
 	{
 		[Key]
 		public int Id { get; set; }
-		public int IdUsuario { get; set; }
+		public string IdUsuario { get; set; }
 		public string IdOrigen { get; set; }
 		public string IdDestino { get; set; }
 		public DateTime Fecha { get; set; }

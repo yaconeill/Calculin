@@ -26,6 +26,8 @@ namespace CambioMonedaWeb.Controllers
             this.roleManager = roleManager;
         }
 
+        private Task<UsuarioConversor> GetCurrentUserAsync() => userManager.GetUserAsync(HttpContext.User);
+        //var user = await GetCurrentUserAsync();
         [HttpGet]
         public IActionResult Register()
         {

@@ -9,9 +9,10 @@ namespace Conversor
 		ForexDataClient _client { get; set; }
 		List<FactorConversion> ListaFactores { get; set; }
 		decimal RealizarCambio(string idOrigen, string idDestino, decimal valor);
+		void LoadDataBase();
 		void LoadConversionList();
-		void ActualizarNombres();
+		void UpdateCurrencyNames();
 		void LoadCurrencies();
-		void GenerateFatorConversion();
+		void GenerateFactorConversion();
 	}
 }

@@ -68,6 +68,92 @@
         </div>
 
     }
+    @if (Model.Historiales.Count != 0)
+    {
+        <hr />
+        <h4 class="text-center">Historial de búsquedas</h4>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 animated fadeIn">
+                <div class="table-responsive">
+                    <table class="table table-striped table-hover" id="historiales">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Moneda Origen:</th>
+                                <th>Moneda Destino:</th>
+                                <th>Factor de cambio:</th>
+                                <th>Cantidad:</th>
+                                <th>Resultado:</th>
+                                <th>Fecha de conversión:</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var h in Model.Historiales)
+                            {
+                                <tr class="history" data-toggle="modal" data-target="#modalHistorial" data-id="@h.Id">
+                                    <td><span class="glyphicon glyphicon-zoom-in"></span></td>
+                                    <td>@h.IdOrigen</td>
+                                    <td>@h.IdDestino</td>
+                                    <td>@h.Factor</td>
+                                    <td>@h.Cantidad</td>
+                                    <td>@h.Resultado</td>
+                                    <td>@h.Fecha.ToString("yyyy-MM-dd")</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modalHistorial">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title">Detalles del historial</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-8 col-md-offset-2">
+                                    <label for="monedaOrigen">Moneda de origen</label>
+                                    <output id="monedaOrigen" />
+
+                                </div>
+                                <div class="col-md-8 col-md-offset-2">
+                                    <label for="monedaDestino">Moneda de destino </label>
+                                    <output id="monedaDestino" />
+
+                                </div>
+                                <div class="col-md-8 col-md-offset-2">
+                                    <label for="factorCambio">Factor de cambio</label>
+                                    <output id="factorCambio" />
+
+                                </div>
+                                <div class="col-md-8 col-md-offset-2">
+                                    <label for="cantidad">Cantidad</label>
+                                    <output id="cantidad" />
+
+                                </div>
+                                <div class="col-md-8 col-md-offset-2">
+                                    <label for="resultado">Resultado </label>
+                                    <output id="resultado" />
+
+                                </div>
+                                <div class="col-md-8 col-md-offset-2">
+                                    <label for="fecha">Fecha de conversión</label>
+                                    <output id="fecha" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
 
 </div>
 
@@ -76,34 +162,50 @@
         $(document).ready(() => {
             $('#formUno #IdOrigen').change((self) => hideSelected(self, $('#formUno #IdDestino').children()));
 
-            $('#formLista #IdOrigen').change((self) => hideSelected(self, $('#formLista #monedaDestino').find('input')));
+            $('#formLista #IdOrigen')
+                .change((self) => hideSelected(self, $('#formLista #monedaDestino').find('input')));
 
             function hideSelected(self, selector) {
                 const selected = self.target.selectedOptions[0].value;
                 selector.each((i, o) => {
                     o.type === "checkbox" ? $(o).parent().parent().show() : $(o).show();
                 });
-                selector.each(function (i, o) {
+                selector.each(function(i, o) {
                     if (o.value === selected && o.value !== "Selecciona uno ...")
                         o.type === "checkbox" ? $(o).parent().parent().hide() : $(o).hide();
                 });
             }
 
-            $('#formUno #Cantidad').focusout(function () {
+            $('#formUno #Cantidad').focusout(function() {
                 let value = $(this).val();
                 $(this).val(value.replace(/\./, ','));
             });
 
             let sort = document.getElementById('sort');
-            sort.addEventListener('click', () => {
-                let origen = document.getElementById('IdOrigen');
-                let destino = document.getElementById('IdDestino');
-                let prevOrigen = origen.selectedIndex;
-                let prevDestino = destino.selectedIndex;
-                origen.selectedIndex = prevDestino;
-                destino.selectedIndex = prevOrigen;
-            });
+            sort.addEventListener('click',
+                () => {
+                    let origen = document.getElementById('IdOrigen');
+                    let destino = document.getElementById('IdDestino');
+                    let prevOrigen = origen.selectedIndex;
+                    let prevDestino = destino.selectedIndex;
+                    origen.selectedIndex = prevDestino;
+                    destino.selectedIndex = prevOrigen;
+                });
 
+            $(".history").click(function() {
+                let id = $(this).data('id');
+                fetch(`${window.location.origin}/api/historiales/${id}`)
+                    .then(r => r.json())
+                    .then(data => {
+                        let fecha = new Date(data.fecha);
+                        $('.modal #monedaOrigen').val(data.idOrigen);
+                        $('.modal #monedaDestino').val(data.idDestino);
+                        $('.modal #factorCambio').val(data.factor);
+                        $('.modal #cantidad').val(data.cantidad);
+                        $('.modal #resultado').val(data.resultado);
+                        $('.modal #fecha').val(`${fecha.getDate()}/${fecha.getMonth()}/${fecha.getFullYear()}`);
+                    });
+            });
         });
     </script>
 }

@@ -271,3 +271,4 @@ C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaW
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.csproj.CopyComplete
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.dll
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\obj\Debug\netcoreapp2.1\CambioMonedaWeb.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\CambioMonedaWeb\bin\Debug\netcoreapp2.1\Paises.csv

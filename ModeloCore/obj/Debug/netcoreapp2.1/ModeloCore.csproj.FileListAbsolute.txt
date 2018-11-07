@@ -44,7 +44,6 @@ C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ModeloCore\obj
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
-C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csprojAssemblyReference.cache
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs

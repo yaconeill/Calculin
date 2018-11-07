@@ -102,3 +102,4 @@ C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.csproj.CopyComplete
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.dll
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\obj\Debug\netcoreapp2.1\Conversor.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\Conversor\bin\Debug\netcoreapp2.1\Paises.csv

@@ -43,3 +43,14 @@ C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ClienteMoneda\
 C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ClienteMoneda\obj\Debug\ClienteMoneda.csproj.CopyComplete
 C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ClienteMoneda\obj\Debug\ClienteMoneda.exe
 C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ClienteMoneda\obj\Debug\ClienteMoneda.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\bin\Debug\ClienteMoneda.exe.config
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\bin\Debug\ClienteMoneda.exe
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\bin\Debug\ClienteMoneda.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\obj\Debug\ClienteMoneda.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\obj\Debug\ClienteMoneda.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\obj\Debug\ClienteMoneda.exe
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ClienteMoneda\obj\Debug\ClienteMoneda.pdb

@@ -28,7 +28,7 @@ namespace MangeDataCore
 		public void LoadConversionList()
 		{
 			LoadCurrencies();
-			GenerateFatorConversion();
+			GenerateFactorConversion();
 
 			var factores = _repositorio.ObtenerFactores();
 			string[] simbolos = new string[factores.Count];
@@ -67,7 +67,7 @@ namespace MangeDataCore
 						});
 		}
 
-		public void GenerateFatorConversion()
+		public void GenerateFactorConversion()
 		{
 			var monedasOrigen = _repositorio.ObtenerMonedas();
 			var monedasDestino = _repositorio.ObtenerMonedas();

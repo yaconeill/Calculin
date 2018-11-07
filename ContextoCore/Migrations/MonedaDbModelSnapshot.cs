@@ -52,7 +52,7 @@ namespace ContextoCore.Migrations
 
                     b.Property<string>("IdOrigen");
 
-                    b.Property<int>("IdUsuario");
+                    b.Property<string>("IdUsuario");
 
                     b.Property<decimal>("Resultado");
 

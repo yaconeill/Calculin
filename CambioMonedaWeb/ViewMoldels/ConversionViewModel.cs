@@ -22,5 +22,7 @@ namespace CambioMonedaWeb
 
 		public string ErrorMsg { get; set; }
 
+        public List<Historial> Historiales { get; set; }
+
 	}
 }

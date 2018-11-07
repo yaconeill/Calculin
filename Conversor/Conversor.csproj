@@ -14,4 +14,10 @@
     <ProjectReference Include="..\RepositorioCore\RepositorioCore.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Paises.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

@@ -262,9 +262,9 @@ namespace RepositorioCore
 		/// <param name="desde"></param>
 		/// <param name="hasta"></param>
 		/// <returns></returns>
-		public List<Historial> BuscarNHistoriales(int desde, int hasta)
+		public List<Historial> BuscarNHistoriales(int desde, int hasta, string idUsuario)
 		{
-			return _contexto.Historiales.OrderBy(h => h.Id).Skip(desde).Take(hasta).ToList();
+			return _contexto.Historiales.Where(h => h.IdUsuario == idUsuario).OrderByDescending(h => h.Id).Skip(desde).Take(hasta).ToList();
 		}
 
 		/// <summary>

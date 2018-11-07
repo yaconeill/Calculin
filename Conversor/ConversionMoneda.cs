@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using ModeloCore;
@@ -39,10 +40,17 @@ namespace Conversor
 			return -1;
 		}
 
-		public void LoadConversionList()
+		public void LoadDataBase()
 		{
 			LoadCurrencies();
-			GenerateFatorConversion();
+			GenerateFactorConversion();
+			LoadConversionList();
+			UpdateCurrencyNames();
+			LoadCountries();
+		}
+
+		public void LoadConversionList()
+		{
 
 			var factores = _repositorio.ObtenerFactores();
 			string[] simbolos = new string[factores.Count];
@@ -68,10 +76,9 @@ namespace Conversor
 				_repositorio.ActualizarFactores(factorMoneda);
 			}
 
-			ActualizarNombres();
 		}
 
-		public void ActualizarNombres()
+		public void UpdateCurrencyNames()
 		{
 			var listaNombres = _openExchange.ObtenerDivisas();
 			var monedas = _repositorio.ObtenerMonedas();
@@ -96,7 +103,16 @@ namespace Conversor
 				});
 		}
 
-		public void GenerateFatorConversion()
+		public void LoadCountries()
+		{
+			var paises = GetCountriesFromCsv.CrearListaPaises();
+			foreach (var pais in paises)
+			{
+				_repositorio.CrearPais(pais);
+			}
+		}
+
+		public void GenerateFactorConversion()
 		{
 			var monedasOrigen = _repositorio.ObtenerMonedas();
 			var monedasDestino = _repositorio.ObtenerMonedas();
@@ -178,5 +194,38 @@ namespace Conversor
 		//				});
 
 		//}
+	}
+
+	public static class GetCountriesFromCsv
+	{
+		public static List<Pais> CrearListaPaises()
+		{
+			return ProcesarArchivo("Paises.csv");
+		}
+		private static List<Pais> ProcesarArchivo(string paisesCsv)
+		{
+			var query =
+
+				File.ReadAllLines(paisesCsv)
+					.Skip(1)
+					.Where(l => l.Length > 1)
+					.ToPais();
+
+			return query.ToList();
+			throw new NotImplementedException();
+		}
+
+		public static IEnumerable<Pais> ToPais(this IEnumerable<string> source)
+		{
+			foreach (var line in source)
+			{
+				var columns = line.Split(';');
+
+				yield return new Pais
+				{
+					Nombre = columns[0]
+				};
+			}
+		}
 	}
 }
