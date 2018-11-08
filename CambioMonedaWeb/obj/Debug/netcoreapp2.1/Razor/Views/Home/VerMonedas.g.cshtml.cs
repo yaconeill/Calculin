@@ -67,12 +67,12 @@ using CambioMonedaWeb.Models;
             WriteLiteral("            <div class=\"col-sm-4 col-lg-4 col-md-4 animated fadeIn\">\r\n                ");
             EndContext();
             BeginContext(293, 619, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "368e7a66dc8c4334a40c457064d320ef", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "51bbcae4d7e24289abbade8b1fbae680", async() => {
                 BeginContext(371, 45, true);
                 WriteLiteral("<div class=\"thumbnail\">\r\n                    ");
                 EndContext();
                 BeginContext(416, 40, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "7e6957e6c62d433c88b16e96bc8d90ad", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0d32699c079543c3bdda9a6cfafcce2e", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

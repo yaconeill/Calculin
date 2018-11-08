@@ -1,5 +1,8 @@
 ﻿@using CambioMonedaWeb.Data
 @using Microsoft.AspNetCore.Identity
+@inject SignInManager<UsuarioConversor> SignInManager
+@inject UserManager<UsuarioConversor> UserManager
+
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -10,7 +13,15 @@
     <hr class="my-4">
     <br />
     <div class="text-center">
-        <a asp-active-route asp-area="" class="btn btn-primary" asp-controller="Home" asp-action="VerMonedas" asp-hide-if-active="true">Ver monedas</a>
-        <a asp-active-route asp-area="" class="btn btn-primary" asp-controller="Home" asp-action="VerConversor" asp-hide-if-active="true">Ir al conversor</a>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <a asp-active-route asp-area="" class="btn btn-primary" asp-controller="Home" asp-action="VerMonedas" asp-hide-if-active="true">Ver monedas</a>
+            <a asp-active-route asp-area="" class="btn btn-primary" asp-controller="Home" asp-action="VerConversor" asp-hide-if-active="true">Ir al conversor</a>
+        }
+        else
+        {
+            <a asp-active-route asp-area="" class="btn btn-primary" asp-controller="Account" asp-action="Login" asp-hide-if-active="true">Login</a>
+            <a asp-active-route asp-area="" class="btn btn-primary" asp-controller="Account" asp-action="Register" asp-hide-if-active="true">Registrarse</a>
+        }
     </div>
 </div>
