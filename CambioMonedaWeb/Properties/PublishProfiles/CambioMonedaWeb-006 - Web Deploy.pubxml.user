@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAG6ugOnCqSU+IPrwyzpqTwAAAAAACAAAAAAAQZgAAAAEAACAAAAAVku8fwu9Iq4c7hPQgMUj6qSMfeYQXB3RMIZDi+KimYwAAAAAOgAAAAAIAACAAAAABrAKQeFqpeHIMNeuvwi5qjJeX7G3FfL/rMdfWo7QED4AAAACWTih//IfTlmiY5vogMfC8C7w2AEIZMcHVeaSis8xdV9UOSdq82MlyCMJfGT3yll716irX23/YF2nqJPWS/JC6I2RWau7Z3Dvr1RHOax87hftJ/bomaODYU5P/6OvWWeAN5zJlIsnMm+ER9uzEDesEYbEtBbe4QCyV8FFkRYFBgkAAAADXG5RFuILGENEy0s+VbExigDDMhKMVPo7EGiPRNFejEVCf6tbz0vQrAkuwu4ah56lbFqZJSNJDGx1Pvm8HewDj</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=tcp:bsd-demo-00020181107094549dbserver.database.windows.net,1433;Initial Catalog=SitioWebCore-006-db;User Id=admin-bsd-demo-000@bsd-demo-00020181107094549dbserver;Password=P@ssw0rd" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:bsd-demo-00020181107094549dbserver.database.windows.net,1433;Initial Catalog=SitioWebCore-006-dbsec;User Id=admin-bsd-demo-000@bsd-demo-00020181107094549dbserver;Password=P@ssw0rd" />
+  </ItemGroup>
+</Project>

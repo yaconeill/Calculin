@@ -40,12 +40,12 @@ namespace CambioMonedaWeb
                     Configuration.GetConnectionString("SecurityConnection")));
             services.AddIdentity<UsuarioConversor, IdentityRole>(options =>
             {
+                options.Password.RequiredLength = 8;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireUppercase = false;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireDigit = false;
                 options.User.RequireUniqueEmail = false;
-                //options.Password.RequireDigit = false;
-                //options.Password.RequireLowercase = false;
-                //options.Password.RequireUppercase = false;
-                //options.Password.RequireNonAlphanumeric = false;
-                //options.Password.RequiredLength = 7;
             }).AddEntityFrameworkStores<ApplicationDbContext>()
               .AddDefaultTokenProviders();
 
@@ -69,9 +69,8 @@ namespace CambioMonedaWeb
             }
             else
             {
-                //app.UseExceptionHandler("/Home/Error");
-                //app.UseHsts();
-                app.UseExceptionHandler();
+                app.UseExceptionHandler("/Home/Error");
+                app.UseHsts();
 
             }
 

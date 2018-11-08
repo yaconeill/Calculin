@@ -20,14 +20,18 @@
                 <div class="form-group">
                     <label asp-for="Password" class="col-md-2 control-label"></label>
                     <div class="col-md-10">
-                        <input asp-for="Password" type="password" class="form-control" required pattern=".{6,}"/>
+                        <input asp-for="Password" type="password" class="form-control" required
+                               title="Debe contener mínimo 8 caracteres, una mayúscula, una minúscula y un número o caracter especial"
+                               pattern="(?=^.{8,}$)((?=.*\d)(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$"/>
                         <span asp-validation-for="Password" class="text-danger"></span>
                     </div>
                 </div>
                 <div class="form-group">
                     <label asp-for="ConfirmPassword" class="col-md-2 control-label"></label>
                     <div class="col-md-10">
-                        <input asp-for="ConfirmPassword" type="password" class="form-control" required pattern=".{6,}" />
+                        <input asp-for="ConfirmPassword" type="password" class="form-control" required 
+                               title="Debe contener mínimo 8 caracteres, una mayúscula, una minúscula y un número o caracter especial"
+                               pattern="(?=^.{8,}$)((?=.*\d)(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" />
                         <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                     </div>
                 </div>

@@ -60,9 +60,6 @@ namespace CambioMonedaWeb.Controllers
             if (!await roleManager.RoleExistsAsync("Speaker"))
                 await roleManager.CreateAsync(new IdentityRole { Name = "Speaker" });
 
-            //await userManager.AddToRoleAsync(user, model.Role);
-            //await userManager.AddClaimAsync(user, new Claim());
-
             if (result.Succeeded)
                 return View("Login");
 
@@ -82,7 +79,6 @@ namespace CambioMonedaWeb.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Login(LoginViewModel model, string returnUrl = null)
         {
-            //ViewData["ReturnUrl"] = returnUrl;
             if (ModelState.IsValid)
             {
                 var result =
@@ -91,11 +87,6 @@ namespace CambioMonedaWeb.Controllers
                             lockoutOnFailure: false);
                 if (result.Succeeded)
                     return RedirectToAction("VerConversor", "Home");
-                    //return RedirectToLocal(returnUrl);
-                if (result.RequiresTwoFactor)
-                {
-                    //
-                }
                 if (result.IsLockedOut)
                 {
                     return View("Lockout");

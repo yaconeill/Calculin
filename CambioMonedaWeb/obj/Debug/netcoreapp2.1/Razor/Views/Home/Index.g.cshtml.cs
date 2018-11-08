@@ -90,7 +90,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("            ");
             EndContext();
             BeginContext(506, 143, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cf65bc80bbe24943acdd0e0a42a65251", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f1b7186611bf4c7bb3c9454e50efa833", async() => {
                 BeginContext(634, 11, true);
                 WriteLiteral("Ver monedas");
                 EndContext();
@@ -121,7 +121,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            ");
             EndContext();
             BeginContext(663, 149, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4688058e074c4ddea50482bae1b48e77", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "193d231d4ef24194b0c65ee325565e10", async() => {
                 BeginContext(793, 15, true);
                 WriteLiteral("Ir al conversor");
                 EndContext();
@@ -162,7 +162,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("            ");
             EndContext();
             BeginContext(862, 135, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a89ff6edaad14f428007d591020200b7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cab2a4bf79384dd2a84e0a62c886a629", async() => {
                 BeginContext(988, 5, true);
                 WriteLiteral("Login");
                 EndContext();
@@ -193,7 +193,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n            ");
             EndContext();
             BeginContext(1011, 144, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23b65710e0ef439c83bcebb223d3ea30", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f82a11d334e945c7940e67b916cb83c8", async() => {
                 BeginContext(1140, 11, true);
                 WriteLiteral("Registrarse");
                 EndContext();

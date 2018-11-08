@@ -22,3 +22,15 @@ C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ContextoCore\o
 C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.csproj.CopyComplete
 C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.dll
 C:\Users\usuario\Desktop\Proyecto calculin-temp\Proyecto calculin\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\bin\Release\netcoreapp2.1\ContextoCore.deps.json
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\bin\Release\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\bin\Release\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\bin\Release\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\bin\Release\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.pdb
