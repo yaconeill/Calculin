@@ -63,8 +63,8 @@ namespace CambioMonedaWeb.Controllers
             //await userManager.AddToRoleAsync(user, model.Role);
             //await userManager.AddClaimAsync(user, new Claim());
 
-            //if (result.Succeeded)
-            //    return View("RegistrationConfirmation");
+            if (result.Succeeded)
+                return View("Login");
 
             foreach (var error in result.Errors)
                 ModelState.AddModelError("error", error.Description);
@@ -82,7 +82,7 @@ namespace CambioMonedaWeb.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Login(LoginViewModel model, string returnUrl = null)
         {
-            ViewData["ReturnUrl"] = returnUrl;
+            //ViewData["ReturnUrl"] = returnUrl;
             if (ModelState.IsValid)
             {
                 var result =
@@ -90,7 +90,8 @@ namespace CambioMonedaWeb.Controllers
                         signInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe,
                             lockoutOnFailure: false);
                 if (result.Succeeded)
-                    return RedirectToLocal(returnUrl);
+                    return RedirectToAction("VerConversor", "Home");
+                    //return RedirectToLocal(returnUrl);
                 if (result.RequiresTwoFactor)
                 {
                     //

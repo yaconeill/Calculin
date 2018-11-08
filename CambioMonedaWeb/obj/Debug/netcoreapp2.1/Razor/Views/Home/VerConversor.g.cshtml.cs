@@ -83,17 +83,17 @@ using CambioMonedaWeb.Models;
             ");
             EndContext();
             BeginContext(352, 1302, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9f9596c835dc4d008019132de1115627", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "671781158b2b43d9b127ce0b833fb6bf", async() => {
                 BeginContext(411, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
                 BeginContext(429, 268, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "237ba0c87ce945979549f07aac8dbf63", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a99da381279746e68e25d377c0f7d82a", async() => {
                     BeginContext(595, 22, true);
                     WriteLiteral("\r\n                    ");
                     EndContext();
                     BeginContext(617, 53, false);
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "06bf65b0a7e0451eb9ebd0bc15516ac9", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "227b587e864c4cd4a6930cc892941c34", async() => {
                         BeginContext(643, 18, true);
                         WriteLiteral("Selecciona uno ...");
                         EndContext();
@@ -149,12 +149,12 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_SelectTagHelper.Items = (new SelectList(@M
                 WriteLiteral("\r\n                ");
                 EndContext();
                 BeginContext(715, 269, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "53041f13332d4ae6a4b7af18e1646c9c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef2ddd5eefc14b5097bc27325cf27bb7", async() => {
                     BeginContext(882, 22, true);
                     WriteLiteral("\r\n                    ");
                     EndContext();
                     BeginContext(904, 53, false);
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "50d0ca1ba71f4fd7a30664fff81d53fb", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9e7b3438097f4869bfaad211d0a7cfb0", async() => {
                         BeginContext(930, 18, true);
                         WriteLiteral("Selecciona uno ...");
                         EndContext();
@@ -210,7 +210,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_SelectTagHelper.Items = (new SelectList(@M
                 WriteLiteral("\r\n                <div class=\"input-group\">\r\n                    <span class=\"input-group-addon\">Importe</span>\r\n                    ");
                 EndContext();
                 BeginContext(1117, 106, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "73f45490557a44d388d30002f6f99cf2", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "2eaec5d473dc4560b653afc7113bf4ff", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();

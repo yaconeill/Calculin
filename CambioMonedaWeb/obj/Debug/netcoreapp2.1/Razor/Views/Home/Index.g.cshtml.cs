@@ -75,7 +75,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n<div class=\"jumbotron\">\r\n    <h1 class=\"display-4\">Bienvenido a Calculín</h1>\r\n    <p class=\"lead\">La mejor web para realizar cambios de moneda</p>\r\n    <hr class=\"my-4\">\r\n    <br />\r\n    <div class=\"text-center\">\r\n        ");
             EndContext();
             BeginContext(337, 143, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f6d184a2a6db451da980d3b800853038", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "05f855b247094ac5a042f68d73481a05", async() => {
                 BeginContext(465, 11, true);
                 WriteLiteral("Ver monedas");
                 EndContext();
@@ -106,7 +106,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n        ");
             EndContext();
             BeginContext(490, 149, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1abab608dbe24d5b809b1e3ae3d2c2ef", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8dcf3018eb48485dae76cd3244efc2fa", async() => {
                 BeginContext(620, 15, true);
                 WriteLiteral("Ir al conversor");
                 EndContext();

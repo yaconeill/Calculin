@@ -39,11 +39,6 @@ namespace CambioMonedaWeb.Controllers
 
         public IActionResult Index()
         {
-            var listaMonedas = _repositorio.ObtenerMonedas();
-            if (listaMonedas.Count == 0)
-            {
-                _conversionMoneda.LoadDataBase();
-            }
             return View();
         }
 
@@ -64,7 +59,11 @@ namespace CambioMonedaWeb.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
-
+            var listaMonedas = _repositorio.ObtenerMonedas();
+            if (listaMonedas.Count == 0)
+            {
+                _conversionMoneda.LoadDataBase();
+            }
             return View();
         }
 

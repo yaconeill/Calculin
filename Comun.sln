@@ -29,8 +29,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conversor", "Conversor\Conv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiConversor", "ApiConversor\ApiConversor.csproj", "{30B67F94-3A53-4807-B665-5F897D1A436B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiWeb", "ApiWeb\ApiWeb.csproj", "{A9017694-A1B7-4A7C-8CC0-DDA105084D47}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,10 +63,6 @@ Global
 		{30B67F94-3A53-4807-B665-5F897D1A436B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30B67F94-3A53-4807-B665-5F897D1A436B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30B67F94-3A53-4807-B665-5F897D1A436B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9017694-A1B7-4A7C-8CC0-DDA105084D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9017694-A1B7-4A7C-8CC0-DDA105084D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9017694-A1B7-4A7C-8CC0-DDA105084D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9017694-A1B7-4A7C-8CC0-DDA105084D47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,7 +75,6 @@ Global
 		{9B9F7EA9-6127-413E-846B-6E0857194BE7} = {8CDECD95-53D2-48C3-BCC4-125A44EE86B2}
 		{39997D10-4000-4A8D-A004-112D925DDFB5} = {72446EBA-A8F9-42B5-82E9-B6513D706FFE}
 		{30B67F94-3A53-4807-B665-5F897D1A436B} = {72446EBA-A8F9-42B5-82E9-B6513D706FFE}
-		{A9017694-A1B7-4A7C-8CC0-DDA105084D47} = {72446EBA-A8F9-42B5-82E9-B6513D706FFE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E32C6A6-393D-4A7D-8ED3-CE80F4699E3F}

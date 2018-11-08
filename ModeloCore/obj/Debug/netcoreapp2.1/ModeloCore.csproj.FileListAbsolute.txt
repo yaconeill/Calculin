@@ -49,3 +49,4 @@ C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\ob
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.dll
 C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Proyecto calculin-final\Proyecto calculin\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csprojAssemblyReference.cache

@@ -41,11 +41,11 @@ namespace CambioMonedaWeb
             services.AddIdentity<UsuarioConversor, IdentityRole>(options =>
             {
                 options.User.RequireUniqueEmail = false;
-                options.Password.RequireDigit = false;
-                options.Password.RequireLowercase = false;
-                options.Password.RequireUppercase = false;
-                options.Password.RequireNonAlphanumeric = false;
-                options.Password.RequiredLength = 7;
+                //options.Password.RequireDigit = false;
+                //options.Password.RequireLowercase = false;
+                //options.Password.RequireUppercase = false;
+                //options.Password.RequireNonAlphanumeric = false;
+                //options.Password.RequiredLength = 7;
             }).AddEntityFrameworkStores<ApplicationDbContext>()
               .AddDefaultTokenProviders();
 

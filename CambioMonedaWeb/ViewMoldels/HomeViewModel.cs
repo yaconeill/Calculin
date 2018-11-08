@@ -15,9 +15,6 @@ namespace CambioMonedaWeb
 
 		public string Titulo { get; set; }
 
-	    public string ImagenMoneda { get; } =
-	        "https://cdn.pixabay.com/photo/2016/08/08/15/04/money-1578510_960_720.jpg";
-
 		[Required]
 		public string IdOrigen { get; set; }
 
