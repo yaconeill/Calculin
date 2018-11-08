@@ -97,7 +97,7 @@
                                     <td>@h.Factor</td>
                                     <td>@h.Cantidad</td>
                                     <td>@h.Resultado</td>
-                                    <td>@h.Fecha.ToString("yyyy-MM-dd")</td>
+                                    <td>@h.Fecha.ToString("yyyy-MM-dd HH:mm")</td>
                                 </tr>
                             }
                         </tbody>
@@ -203,7 +203,7 @@
                         $('.modal #factorCambio').val(data.factor);
                         $('.modal #cantidad').val(data.cantidad);
                         $('.modal #resultado').val(data.resultado);
-                        $('.modal #fecha').val(`${fecha.getDate()}/${fecha.getMonth()}/${fecha.getFullYear()}`);
+                        $('.modal #fecha').val(`${fecha.getDate()}-${fecha.getMonth()}-${fecha.getFullYear()} ${fecha.getHours()}:${fecha.getMinutes()}`);
                     });
             });
         });
