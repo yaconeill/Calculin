@@ -6,6 +6,7 @@ Esta es una aplicación para realizar cambios de moneda desarrollada en NetCore.
 # Instrucciones
 
 Para la carga inicial de los datos de las monedas, hay que acceder a la página About en el primer inicio, estos datos se reciben desde la API de Forge/Forex y son almacenados en una base de datos SQLServer.
+Para actulizar el valor de cambio, hay que acceder a Contact.
 Para acceder al conversor y al listado de monedas hay que estar registrado.
 [Acceder a la aplicación en Azure](https://cambiomonedaweb-006.azurewebsites.net/)
 # Características

@@ -70,7 +70,7 @@ namespace CambioMonedaWeb.Controllers
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
-
+            _conversionMoneda.LoadConversionList();
             return View();
         }
 
